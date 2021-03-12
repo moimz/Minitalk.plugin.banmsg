@@ -1,0 +1,17 @@
+{
+	"id":"com.moimz.minitalk.plugin.banmsg",
+	"icon":"xi xi-lips-sealed-face",
+	"title":{
+		"ko":"대화일치차단 플러그인"
+	},
+	"version":"1.0.0",
+	"description":{
+		"ko":"특정유저의 대화를 일시적으로 차단할 수 있는 플러그인 입니다."
+	},
+	"author":{
+		"name":"Arzz",
+		"email":"arzz@arzz.com"
+	},
+	"homepage":"https://www.minitalk.io",
+	"language":"ko"
+}
