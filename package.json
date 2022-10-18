@@ -2,7 +2,7 @@
 	"id":"com.moimz.minitalk.plugin.banmsg",
 	"icon":"xi xi-lips-sealed-face",
 	"title":{
-		"ko":"대화일치차단 플러그인"
+		"ko":"대화일시차단 플러그인"
 	},
 	"version":"1.0.0",
 	"description":{

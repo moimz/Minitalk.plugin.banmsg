@@ -1,5 +1,5 @@
 /**
- * 이 파일은 미니톡 스팸방지 플러그인의 일부입니다. (https://www.minitalk.io)
+ * 이 파일은 미니톡 대화일시차단 플러그인의 일부입니다. (https://www.minitalk.io)
  *
  * 특정유저의 대화를 일시 차단합니다.
  * 
@@ -7,7 +7,7 @@
  * @author Arzz (arzz@arzz.com)
  * @license MIT License
  * @version 1.0.0
- * @modified 2021. 3. 12.
+ * @modified 2022. 10. 7.
  */
 if (Minitalk === undefined) return;
 
